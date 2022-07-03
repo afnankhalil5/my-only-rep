@@ -10,3 +10,8 @@ h2{
     color: indigo;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+div{
+    background-color: aquamarine;
+    border: 10px;
+    border-radius: 5px;
+}
