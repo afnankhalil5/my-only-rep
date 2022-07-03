@@ -1,3 +1,12 @@
 p{
     color: darkblue;
 }
+h1{
+    color: darkcyan;
+    border: 8px;
+    border-radius: 2px;
+}
+h2{
+    color: indigo;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
