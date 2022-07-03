@@ -12,6 +12,9 @@ h2{
 }
 div{
     background-color: aquamarine;
-    border: 10px;
+    border: 10px solid black;
     border-radius: 5px;
+    margin: 10px 20px;
+    padding: 5px 10px;
+    text-align: center;
 }
